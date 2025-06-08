@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nosso Cantinho de Memórias</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Nosso Cantinho 💖</h1>
+
+    <div class="texto">
+      <h2>Nossa história</h2>
+      <p>
+        Desde o primeiro olhar, tudo mudou. Cada momento com você se tornou uma memória especial.
+        Este site é uma forma de guardar cada sorriso, cada viagem, cada abraço.aaaa
+      </p>
+      <p>
+        Obrigado por estar comigo. Que essas lembranças nos acompanhem para sempre. 💖
+      </p>
+    </div>
+
+    <section class="galeria">
+      <img src="imagens/foto1.jpg" alt="Memória 1" />
+      <img src="imagens/foto2.jpg" alt="Memória 2" />
+      <img src="imagens/foto3.jpg" alt="Memória 3" />
+      <img src="imagens/foto4.jpg" alt="Memória 4" />
+      <img src="imagens/foto5.jpg" alt="Memória 5" />
+    </section>
+
+    <div class="musica">
+      <iframe width="300" height="170"
+              src="https://www.youtube.com/embed/zKEKXCLT6yg?autoplay=1&loop=1&playlist=zKEKXCLT6yg&mute=1"
+              title="Música do YouTube"
+              frameborder="0"
+              allow="autoplay; encrypted-media"
+              allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
